@@ -1,0 +1,327 @@
+* {
+    margin: 0;
+    padding: 0;
+    width: 30;
+}
+
+header {
+
+    margin: 30px 5%;
+
+    overflow: hidden;
+}
+
+.banner {
+
+    margin: 30px 7%;
+}
+
+.banner img {
+
+    width: 100%;
+
+    height: 500px;
+}
+
+.studio {
+
+    float: left;
+
+    width: 40%;
+}
+
+.studio h4 {
+
+    color: #161616;
+}
+
+.menu {
+
+    float: right;
+
+    /* width: 40%; */
+
+    width: 30%;
+
+    float: right;
+
+    text-align: right;
+}
+
+.menu h4 {
+
+    color: #161616;
+}
+
+.project_title {
+
+    margin: 30px 7%;
+
+    overflow: hidden;
+}
+
+.title {
+
+    float: left;
+
+    width: 45$;
+
+    width: 45%;
+}
+
+.title h5 {
+
+    /* margin-bottom: 18px; */
+
+    font-size: 20px;
+
+    color: #161616;
+}
+
+.title p {
+
+    padding: 50px;
+
+    font-size: 16px;
+
+    color: #545454;
+}
+
+.title_image {
+
+    float: right;
+
+    width: 45%;
+}
+
+.title_image img {
+
+    width: 100%;
+}
+
+.project_date {
+
+    margin: 40px 7%;
+
+    overflow: hidden;
+}
+
+.date {
+
+    float: left;
+
+    width: 45%;
+}
+
+.date h1 {
+
+    color: #161616;
+}
+
+.date h5 {
+
+    color: #545454;
+
+    margin-top: 25px;
+}
+
+.challange {
+
+    width: 45%;
+
+    float: right;
+}
+
+.challange h1 {
+
+    color: #161616;
+}
+
+.challange p {
+
+    color: #545454;
+
+    margin-top: 25px;
+}
+
+.gallary_1 {
+
+    margin: 30px 7%;
+
+    overflow: hidden;
+}
+
+.image_1 {
+
+    float: left;
+
+    width: 30%;
+}
+
+.image_1 img {
+
+    width: 100%;
+
+    height: 230px;
+}
+
+.image_2 {
+
+    float: left;
+
+    width: 30%;
+
+    margin: 0 5%;
+}
+
+.image_2 img {
+
+    width: 100%;
+
+    height: 230px;
+}
+
+.image_3 {
+    width: 30%;
+    float: left;
+}
+
+.image_3 img {
+
+    width: 100%;
+
+    height: 230px;
+}
+
+.gallary_2 {
+
+    margin: 30px 7%;
+
+    overflow: hidden;
+}
+
+.image_4 {
+
+    float: left;
+
+    /* height: 230px; */
+
+    width: 47%;
+}
+
+.image_4 img {
+
+    height: 230px;
+
+    width: 100%;
+}
+
+.image_5 {
+
+    float: right;
+
+    width: 47%;
+}
+
+.image_5 img {
+
+    width: 100%;
+
+    height: 230px;
+}
+
+.gallary_3 {
+
+    margin: 30px 7%;
+}
+
+.image_6 {}
+
+.image_6 img {
+
+    width: 100%;
+}
+
+.work_button {
+
+    text-align: center;
+
+    margin: 200px 0;
+}
+
+.work_button button {
+
+    padding: 16px 21px;
+
+    text-transform: uppercase;
+
+    font-weight: 500;
+}
+
+footer {
+    overflow: hidden;
+    margin: 30px 7%;
+}
+
+.touch {
+
+    float: left;
+
+    width: 30%;
+}
+
+.touch h2 {
+    color: #161616;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.touch h5 {
+    color: #999999;
+    font-size: 15px;
+}
+
+.social {
+
+    float: left;
+
+    width: 30%;
+
+    margin: 0 5%;
+}
+
+.social ul {
+    /* text-decoration: none; */
+    list-style: none;
+}
+
+.social ul li {
+    /* text-decoration: none; */
+    margin-bottom: 10px;
+}
+
+.social ul li a {
+    text-decoration: none;
+    color: #999999;
+}
+
+.quick_link {
+
+    float: left;
+
+    width: 30%;
+}
+
+.quick_link ul {
+    list-style: none;
+}
+
+.quick_link ul li {
+    margin-bottom: 10px;
+}
+
+.quick_link ul li a {
+    text-decoration: none;
+    color: #999999;
+}
